@@ -37,7 +37,7 @@
     - **Absatz 3.7:** Jedes Teammitglied des OPSUCHT.NET Netzwerkes ist befugt, jederzeit von seinen Rechten Gebrauch zu machen und User mit diesen zu kontrollieren.
 - **Absatz 4:** VPNs, Proxys oder ähnliche Methoden zur Identitätsverschleierung sind verboten, es sei denn, es wurde vorher eine Absprache getroffen.
 - **Absatz 5:** Drohungen, egal ob sie an ein Teammitglied oder einen User gerichtet sind, werden schwer bestraft.
-- **Absatz 6:** Jegliche Art von Werbung zum eigenen Zweck ist verboten. Eine Absprache ist in diesem Fall möglich.
+- **Absatz 6:** Jegliche Art von Werbung zum eigenen Zweck ist verboten. Ausnahme: Werbung für persönliche Twitch- und YouTube-Streams ist erlaubt. In allen anderen Fällen ist eine Absprache notwendig.
 - **Absatz 7:** Private Daten dürfen nicht öffentlich ausgetauscht werden. Ein Teammitglied von OPSUCHT.NET wird dich niemals nach vertraulichen Daten wie Passwörtern fragen.
 - **Absatz 8:** Jegliche Art von Handel mit Echtgeld ist verboten. Ränge, Kristalle und weiteres sind nur im offiziellen Shop erhältlich.
 - **Absatz 9:** Jegliche Angriffe gegen das Netzwerk werden zur Strafanzeige gebracht.
@@ -82,6 +82,7 @@
     - **Absatz 2.2:** Modifikationen, die das Planen und Visualisieren von Bauten unterstützen, sind erlaubt, solange keine automatisierten Bau-Funktionen ("Printer"-Modi) genutzt werden. Der EasyPlace-Modus ist gestattet, da er manuelles Bauen fördert, ohne unfaire Vorteile zu bieten. Die Verwendung automatisierter Baufunktionen ist untersagt und wird sanktioniert.
     - **Absatz 2.3.** Die Verwendung von Fullbright-Mods ist auf unserem Server strikt unerwünscht. Offizielle Ingame-Perks bieten ähnliche Vorteile und unterstützen gleichzeitig die Serverentwicklung, während sie ein gerechtes Spielfeld für alle gewährleisten.
     - **Absatz 2.4:** Nicht genannte Modifikationen, die einen **unfairen Vorteil verschaffen**, sind verboten.
+    - **Absatz 2.5:** Im VoiceChat gelten die allgemeinen Verhaltensregeln des Netzwerks. Beleidigungen, Hatespeech und belästigendes Verhalten sind untersagt und werden entsprechend sanktioniert. Das absichtliche Stören von Gesprächen sowie das Aufzeichnen ohne Zustimmung sind verboten.
 - **Absatz 3:** Das Ausnutzen von Spiel- und Programmierfehlern ist verboten und muss gemeldet werden.
 - **Absatz 4:** Das Missbrauchen und Spammen von Befehlen wird mit einem Chat-Ausschluss bestraft.
 - **Absatz 5:** Die Nutzung exklusiv für diesen Server gebauter Karten ohne Erlaubnis ist verboten.
@@ -92,26 +93,27 @@
 - **Absatz 10:** Nutzung mehrer Accounts
     - **Absatz 10.1:** Die Nutzung mehrerer Accounts ohne ausdrückliche Erlaubnis der Serverleitung ist unter Ausnahme von §4 Absatz 10.2 untersagt.
     - **Absatz 10.2:** Spielern ist es gestattet, jeweils einen Java- und einen Bedrock-Account zu besitzen und zu verwenden. Es ist jedoch nicht erlaubt, mit beiden Accounts gleichzeitig online zu sein.
-- **Absatz 11:** Chatverhalten
-    - **Absatz 11.1:** Der Chat dient zur allgemeinen Kommunikation und nicht zum Erregen von Ärgernissen.
-    - **Absatz 11.2:** Das Spammen der gleichen Nachricht ist untersagt.
-    - **Absatz 11.3:** Schreiben mit CAPSLOCK ist zu unterlassen.
-    - **Absatz 11.4:** Das Spammen mit Farb-Codes ist verboten.
-    - **Absatz 11.5:** Das Abwerben von Spielern für andere Server ist untersagt.
-    - **Absatz 11.6:** Betteln nach Ingame-Rechten, Rängen oder Items ist nicht gestattet.
-    - **Absatz 11.7:** Werbung für persönliche Shops und Angebote ist erlaubt, jedoch nur alle 15 Minuten, um Spam zu vermeiden.
-    - **Absatz 11.8:** Das Posten von Links im Chat ist untersagt, außer es handelt sich um offizielle Links von OPSUCHT.NET, wie z.B. wiki.opsucht.net.
-    - **Absatz 11.9:** Aufforderungen zum Spammen, wie z.B. 'Spammt alle F in den Chat!', sind verboten.
-    - **Absatz 11.10:** Drogenverherrlichendes Verhalten im Chat ist untersagt.
-    - **Absatz 11.11:** Fake-Nachrichten, wie z.B. „Du hast Spieler A 100$ gegeben“, sind untersagt.
-    - **Absatz 11.12:** Politische Diskussionen oder das Verbreiten von politischen Inhalten ist untersagt, um Konflikte zu vermeiden und den Chat harmonisch zu halten.
-- **Absatz 12:** Handel & Versteigerungen
-    - **Absatz 12.1:** Das Abbrechen einer Versteigerung mit Geboten ist verboten.
-    - **Absatz 12.2:** Das Zurückziehen eines Gebots bei einer laufenden Versteigerung ist verboten.
-    - **Absatz 12.3:** Fake-Gebote sind untersagt.
-    - **Absatz 12.4:** Bei "Mystery"-Versteigerungen sind alle relevanten Informationen über das versteigerte Item offenzulegen. Irreführende oder unvollständige Angaben führen zur Ungültigkeit der Versteigerung und können sanktioniert werden.
+    - **Absatz 11:** Unangebrachte Skins, die beleidigende, sexuelle, rassistische oder diskriminierende Inhalte darstellen, sind verboten.
+- **Absatz 12:** Chatverhalten
+    - **Absatz 12.1:** Der Chat dient zur allgemeinen Kommunikation und nicht zum Erregen von Ärgernissen.
+    - **Absatz 12.2:** Das Spammen der gleichen Nachricht ist untersagt.
+    - **Absatz 12.3:** Schreiben mit CAPSLOCK ist zu unterlassen.
+    - **Absatz 12.4:** Das Spammen mit Farb-Codes ist verboten.
+    - **Absatz 12.5:** Das Abwerben von Spielern für andere Server ist untersagt.
+    - **Absatz 12.6:** Betteln nach Ingame-Rechten, Rängen oder Items ist nicht gestattet.
+    - **Absatz 12.7:** Werbung für persönliche Shops und Angebote ist erlaubt, jedoch nur alle 15 Minuten, um Spam zu vermeiden.
+    - **Absatz 12.8:** Das Posten von Links im Chat ist untersagt, außer es handelt sich um offizielle Links von OPSUCHT.NET, wie z.B. wiki.opsucht.net.
+    - **Absatz 12.9:** Aufforderungen zum Spammen, wie z.B. 'Spammt alle F in den Chat!', sind verboten.
+    - **Absatz 12.10:** Drogenverherrlichendes Verhalten im Chat ist untersagt.
+    - **Absatz 12.11:** Fake-Nachrichten, wie z.B. „Du hast Spieler A 100$ gegeben“, sind untersagt.
+    - **Absatz 12.12:** Politische Diskussionen oder das Verbreiten von politischen Inhalten ist untersagt, um Konflikte zu vermeiden und den Chat harmonisch zu halten.
+- **Absatz 13:** Handel & Versteigerungen
+    - **Absatz 13.1:** Das Abbrechen einer Versteigerung mit Geboten ist verboten.
+    - **Absatz 13.2:** Das Zurückziehen eines Gebots bei einer laufenden Versteigerung ist verboten.
+    - **Absatz 13.3:** Fake-Gebote sind untersagt.
+    - **Absatz 13.4:** Bei "Mystery"-Versteigerungen sind alle relevanten Informationen über das versteigerte Item offenzulegen. Irreführende oder unvollständige Angaben führen zur Ungültigkeit der Versteigerung und können sanktioniert werden.
 
-- **Absatz 13:** Wir behalten uns das Recht vor, Spieler-Warps (SWs) zu löschen, wenn sie gegen unsere Regeln verstoßen.
-- **Absatz 14:** Der Handel mit Fremdwährungen, z.B. LabyMod-Cosmetics, ist verboten.
-- **Absatz 15:** Jegliche Werbung für glücksspielbezogene Aktivitäten oder Einrichtungen, einschließlich Casinos, ist auf dem gesamten Netzwerk strengstens untersagt - mit Ausnahme von netzwerkeigenen Initiativen.
-- **Absatz 16:** Das Tragen von rechtswidrigen oder pornografischen Capes (z.B. LabyMod-Capes) ist verboten.
+- **Absatz 14:** Wir behalten uns das Recht vor, Spieler-Warps (SWs) zu löschen, wenn sie gegen unsere Regeln verstoßen.
+- **Absatz 15:** Der Handel mit Fremdwährungen, z.B. LabyMod-Cosmetics, ist verboten.
+- **Absatz 16:** Jegliche Werbung für glücksspielbezogene Aktivitäten oder Einrichtungen, einschließlich Casinos, ist auf dem gesamten Netzwerk strengstens untersagt - mit Ausnahme von netzwerkeigenen Initiativen.
+- **Absatz 17:** Das Tragen von rechtswidrigen oder pornografischen Capes (z.B. LabyMod-Capes) ist verboten.
